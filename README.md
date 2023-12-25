@@ -3,7 +3,7 @@
 ## Overview
 
 This OCR (Optical Character Recognition) application empowers users to manage OCR data associated with individuals. It adopts a client-server architecture, comprising a backend built with Node.js, Express, and MongoDB, and a frontend crafted with React and Vite.
-[Visit my hosted site](https://20.198.77.213). This Web App is hosted on Azure-vm.
+[Visit my hosted site](http://20.198.77.213). This Web App is hosted on Azure-vm.
 
 ## Backend
 
